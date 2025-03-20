@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/karental/static/css/main.ffa639c6.css",
+    "main.js": "/karental/static/js/main.232a46cc.js",
+    "static/js/488.44d995c9.chunk.js": "/karental/static/js/488.44d995c9.chunk.js",
+    "static/media/search-img.jpg": "/karental/static/media/search-img.de55a826a21b305344a2.jpg",
+    "static/media/logo.png": "/karental/static/media/logo.08402ec06de992a1fd60.png",
+    "static/media/slick.svg": "/karental/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/karental/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/karental/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/karental/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/karental/index.html",
+    "main.ffa639c6.css.map": "/karental/static/css/main.ffa639c6.css.map",
+    "main.232a46cc.js.map": "/karental/static/js/main.232a46cc.js.map",
+    "488.44d995c9.chunk.js.map": "/karental/static/js/488.44d995c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffa639c6.css",
+    "static/js/main.232a46cc.js"
+  ]
+}
