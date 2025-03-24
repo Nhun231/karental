@@ -178,7 +178,11 @@ const MyCars = () => {
                       onClick={() => {
                         sessionStorage.setItem("selectedCarId", car.id); // Lưu ID vào sessionStorage
                         clearAllFilesFromDB();
+<<<<<<< HEAD
                        //navigate("/edit-details");
+=======
+                      //  navigate("/edit-details");
+>>>>>>> 613ad95 (try connect with back end)
                       }}
                       sx={{
                         backgroundColor: "#1976d2",

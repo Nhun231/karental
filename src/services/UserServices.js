@@ -1,5 +1,6 @@
 import axios from "axios";
-const BASE_URL = "http://localhost:8080/karental";
+
+const BASE_URL = "http://54.151.174.204:8080/karental";
 const CAR_URL = "http://localhost:8080/karental/car";
 const BOOK_URL = "http://localhost:8080/karental/booking";
 export const registerUser = async (userData) => {
