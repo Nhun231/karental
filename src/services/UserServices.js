@@ -1,8 +1,8 @@
 import axios from "axios";
 
-const BASE_URL = "http://54.151.174.204:8080/karental";
-const CAR_URL = "http://localhost:8080/karental/car";
-const BOOK_URL = "http://localhost:8080/karental/booking";
+const BASE_URL = "https://3.0.229.253/karental";
+const CAR_URL = "https://3.0.229.253/karental/car";
+const BOOK_URL = "https://3.0.229.253/karental/booking";
 export const registerUser = async (userData) => {
   try {
     const response = await fetch(`${BASE_URL}/user/register`, {

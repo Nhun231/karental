@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b383973-9485-4144-9f5b-48557ec899da" name="Changes" comment="" />
+    <list default="true" id="9b383973-9485-4144-9f5b-48557ec899da" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/main.ffa639c6.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/css/main.ffa639c6.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/488.44d995c9.chunk.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/js/488.44d995c9.chunk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.232a46cc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.232a46cc.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/main.232a46cc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/slick.2630a3e3eab21c607e21.svg" beforeDir="false" afterPath="$PROJECT_DIR$/build/static/media/slick.2630a3e3eab21c607e21.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/MyCars.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MyCars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/UserServices.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/UserServices.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,24 +55,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.Register.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Documents/6th_semIntern/karental",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "D:\\WebStorm 2024.3.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.Register.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Documents/6th_semIntern/karental&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\WebStorm 2024.3.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documents\6th_semIntern\CarRentalProject\karental\src\components" />
@@ -90,6 +102,8 @@
       <workItem from="1742222399720" duration="2383000" />
       <workItem from="1742430430259" duration="466000" />
       <workItem from="1742434920394" duration="5775000" />
+      <workItem from="1742892176303" duration="598000" />
+      <workItem from="1743040492879" duration="640000" />
     </task>
     <servers />
   </component>
